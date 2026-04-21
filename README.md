@@ -283,4 +283,4 @@ For support, email us at support@docnest.com or create an issue in the repositor
 
 **Built with ❤️ using React, Node.js, and MongoDB**
 
-Made by [Your Name/Team]
+Made by [Sambhav Koshta]
